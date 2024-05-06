@@ -6,10 +6,9 @@ import RootLayout from './Layouts/RootLayout'
 
 function App() {
   
-
   return (
     <Box>
-      
+      <RootLayout/>
     </Box>
   )
 }
